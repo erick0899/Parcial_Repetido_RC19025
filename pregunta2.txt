@@ -1,0 +1,4 @@
+2- el hardware, equipo físico que se utiliza para procesa y almacenar datos, 
+el software, los procesos que se  utilizan para transformar y extraer información,
+los datos que representan las actividades de la empresa,
+la red que es la que  permite compartir recursos entre computadoras y dispositivos.
